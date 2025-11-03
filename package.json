@@ -1,0 +1,19 @@
+{
+  "name": "airdrop-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.2.33",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "@rainbow-me/rainbowkit": "2.2.9",
+    "wagmi": "2.19.2",
+    "viem": "2.7.18"
+  }
+}
